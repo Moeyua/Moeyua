@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moeyua
-- 👀 I’m interested in Game, Animat and beautiful things.
+- 👀 I’m interested in Game, Anime and beautiful things.
 - 🌱 I’m currently learning TypeScript and Vue.
 - 💞️ I’m looking to collaborate on any one.
 
