@@ -4,7 +4,8 @@
 
 ### Hi, I'm Moeyua 👋
 
-- 💫 Interested in Book, Music, Game, Anime...And any other pretty things
+- 💻 A Front-End Web Developer
+- 💫 Interested in Book, Game, Anime...And any other pretty things
 - 💬 Blog at [moeyua.com](https://moeyua.com)
 - 📩 Reach me by [sending me an email](mailto:moeyua13@icloud.com)
 - 🌟 Nice to meet you
