@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Moeyua
-- 👀 I’m interested in Game, Anime and beautiful things.
-- 🌱 I’m currently learning TypeScript and Vue.
-- 💞️ I’m looking to collaborate on any one.
+<a href="https://moeyua.com">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=moeyua&show_icons=true&hide_border=true" />
+</a>
 
-![Moeyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeyua&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeyua&layout=compact&theme=radical)
+### Hi, I'm Moeyua 👋
+
+- 💫 Interested in Book, Music, Game, Anime...And any other pretty things
+- 💬 Blog at [moeyua.com](https://moeyua.com)
+- 📩 Reach me by [sending me an email](mailto:moeyua13@icloud.com)
+- 🌟 Nice to meet you
 
 <!---
 Moeyua/Moeyua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
