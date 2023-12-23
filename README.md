@@ -6,7 +6,7 @@
 
 - 💻 A Front-End Web Developer
 - 💫 Interested in Book, Game, Anime...And any other pretty things
-- 💬 Blog at [moeyua.com](https://moeyua.com)
+- 💬 Blog at [blog.moeyua.com](https://blog.moeyua.com)
 - 📩 Reach me by [sending me an email](mailto:moeyua13@icloud.com)
 - 🌟 Nice to meet you
 
