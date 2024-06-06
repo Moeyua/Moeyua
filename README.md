@@ -4,13 +4,15 @@
 
 ### Hi, I'm Moeyua 👋
 
-- 💻 A Front-End Web Developer
-- 💫 Interested in Book, Game, Anime...And any other pretty things
+- 💻 A passionate Front-End Web Developer
+- 💫 Interested in Reading, Game, Anime...And any other pretty things
 - 💬 Blog at [blog.moeyua.com](https://blog.moeyua.com)
 - 📩 Reach me by [sending me an email](mailto:moeyua13@icloud.com)
 - 🌟 Nice to meet you
 
-<!---
-Moeyua/Moeyua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
