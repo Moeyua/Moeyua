@@ -16,3 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/d819b755-06d6-473f-a6e7-6479585a2f54.svg?style=social)](https://wakatime.com/@d819b755-06d6-473f-a6e7-6479585a2f54)
+
+
