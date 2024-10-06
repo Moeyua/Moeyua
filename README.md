@@ -7,7 +7,7 @@
 - 💻 A passionate Front-End Web Developer
 - 💫 Interested in Reading, Game, Anime...And any other pretty things
 - 💬 Blog at [blog.moeyua.com](https://blog.moeyua.com)
-- 📩 Reach me by [sending me an email](mailto:moeyua13@icloud.com)
+- 📩 Reach me by [sending me an email](mailto:mail@moeyua.com)
 - 🌟 Nice to meet you
 
 ### Languages and Tools:
